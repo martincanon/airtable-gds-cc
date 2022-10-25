@@ -4,7 +4,7 @@
     "logoUrl": "https://i.imgur.com/y6ZoCXg.png",
     "company": "Airtable Labs",
     "companyUrl": "https://www.airtable.com",
-    "addonUrl": "https://github.com/Airtable-Labs/airtable-gds-cc/README.md",
+    "addonUrl": "https://github.com/Airtable-Labs/airtable-gds-cc/blob/main/README.md",
     "supportUrl": "https://github.com/google/datastudio/issues",
     "description": "Connect your Airtable data to Google Data Studio!",
     "sources": ["npm"],
